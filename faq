@@ -1,0 +1,2 @@
+1. Из папки с лабораторной ./compile-script for-compile-script
+2. Из папки с проектом ./monitor . Компиляция gcc monitor.cpp -o monitor -lpthread
